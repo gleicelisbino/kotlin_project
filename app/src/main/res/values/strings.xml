@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">New</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">More</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Course</string>
+    <string name="menu_slideshow">Work</string>
+    <string name="my_simple_title">Gleice Lisbino</string>
+    <string name="course_title">Course</string>
+    <string name="work_title">Work</string>
+    <string name="my_doing">TODO</string>
+    <string name="course_description">Computer Science it\'s an incredible course, you can lean abot programation of computers and as func computer too.</string>
+    <string name="course_yes">Yes</string>
+    <string name="course_no">No</string>
+    <string name="my_description">Computer Science student at Unicap. Blockchain and IoT researcher and intern test Engineering at Liferay.</string>
+    <string name="my_name">Gleice Lisbino</string>
+    <string name="my_fun">TEST ENGINEERING</string>
+    <string name="my_question">What I do?</string>
+    <string name="my_sal">Hello</string>
+    <string name="my_doing_Two">TODO</string>
+    <string name="work_description">It\'s very nice can open bugs, mask as closed and do atomated tests.</string>
+    <string name="work_title_New">About the Work</string>
+    <string name="work_father">a</string>
+    <string name="work_image">Image</string>
+    <string name="work_yes">Yes</string>
+    <string name="work_no">No</string>
+    <string name="w_q">Do you think about taking this course?</string>
+    <string name="qw">Do you think about doing this job?</string>
+</resources>
